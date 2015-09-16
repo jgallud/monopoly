@@ -1,1 +1,12 @@
 Este archivo es un ejemplo
+
+git add --all
+
+git commit -m "Modificacion del archivo leeme.txt"
+
+git push [credenciales]
+
+-----------------------
+
+
+git pull (esto lo hacemos con repositorios compartidos)
