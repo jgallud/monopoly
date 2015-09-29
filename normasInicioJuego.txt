@@ -4,13 +4,13 @@ Se colocan las camas de Suerte y Caja de Comunidad en sus respectivos puntos en 
 Cada jugador tira el dado y el número más alto es el banquero. Es decir, será el encargado de distribuir el dinero (salarios, bonificaciones, premios, etc.) y de ceder los títulos de propiedad y las construcciones. También deberá conducir las subastas de propiedades. El banquero puede jugar (si hay menos de cuatro jugadores) y, naturalmente, debe tener buen cuidado de separar su capital personal del de la banca.
 
 Cada jugador elige la ficha de un color y luego la ubica en la casilla de salida. 
-Antes de comenzar el juego, todos los participantes recibirán del banquero 150.000 pesos distribuidas de la siguiente manera:
-1 billete de 50.000 pesos. 
-6 billetes de 10.000 pesos. 
-5 billetes de 5.000 pesos. 
-11 billetes de 1.000 pesos. 
-7 billetes de 500 pesos. 
-5 billetes de 100 pesos.
+Antes de comenzar el juego, todos los participantes recibirán del banquero 150.000 pelotis distribuidas de la siguiente manera:
+1 billete de 50.000 pelotis. 
+6 billetes de 10.000 pelotis. 
+5 billetes de 5.000 pelotis. 
+11 billetes de 1.000 pelotis. 
+7 billetes de 500 pelotis. 
+5 billetes de 100 pelotis.
 La banca guarda el resto del dinero. También posee los títulos de propiedad, las casas y los hoteles. El banco podrá vender todas sus construcciones y propiedades. Nunca puede quedarse sin liquidez (llegado a este extremo debería procederse a "fabricar moneda a mano").
 
 Cada jugador tira los dados; el que obtiene la puntuación más alta abre el juego: 
@@ -18,4 +18,4 @@ El primer jugador lanza los dados y mueve su ficha alrededor del tablero, en la 
 Los turnos corren en el sentido de las agujas del reloj alrededor de la mesa; cada jugador arroja los dados y avanza su ficha el número indicado de casillas, aprovechando las opciones que le da el resultado de su tirada. La ficha se quedará en esa casilla hasta que se produzca una nueva tirada. 
 Una o varias fichas pueden permanecer simultáneamente en la misma casilla. 
 Si un jugador obtiene un doble, tiene el derecho a tirar de nuevo; si tira tres dobles seguidos, va directamente a la cárcel. 
-En el transcurso del juego, los jugadores darán varias vueltas al tablero; cada vez que pasen por la casilla de salida recibirán de la banca 20.000 pesos en concepto de honorarios.
+En el transcurso del juego, los jugadores darán varias vueltas al tablero; cada vez que pasen por la casilla de salida recibirán de la banca 20.000 pelotis en concepto de honorarios.
