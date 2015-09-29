@@ -1,9 +1,13 @@
 TABLERO
-El Monopoly cuenta con un tablero dividido en 40 casillas, que incluye 22 terrenos para construir, 4 estaciones de ferrocarril, 2 empresas de servicio público, y 8 casillas de recompensas y sanciones: 
+El Monopoly cuenta con un tablero dividido en 40 casillas, que incluye:
+- 22 terrenos para construir, 
+- 4 estaciones de ferrocarril, 
+- 2 empresas de servicio público, y 
+- 8 casillas de recompensas y sanciones
 
 Las esquinas consisten en casillas especiales marcadas como "salida", "cárcel", "parking libre" a "ir a la cárcel". 
 
-En el centro del tablero se amontonan las camas destinadas a la Suerte y a la Caja de Comunidad. 
+En el centro del tablero se amontonan las cajas destinadas a la Suerte y a la Caja de Comunidad. 
 
 También se necesitan dos dados y una ficha de un color diferente para cada jugador. 
 
