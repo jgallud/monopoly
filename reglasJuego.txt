@@ -1,0 +1,109 @@
+Reglas
+Propiedades
+Si un jugador va a parar a un terreno sin propietario, tiene la opción de comprarlo al banco.
+
+Si decide comprar la propiedad, el jugador paga al banco el valor estipulado en el Título de Propiedad y recibe la carta que lo hace propietario. El jugador emplaza la carta, boca arriba, frente a él. A partir de entonces, podrá cobrar un alquiler a cada jugador que aterrice en esa casilla.
+
+Si el jugador decide no comprar la propiedad, el banquero la gana en subasta. Cualquiera puede participar en la subasta, incluso el jugador que ha rechazado la opción de comprar. La propiedad va a parar a manos de quien realiza la puja más elevada. Éste paga inmediatamente al banquero y recibe su Título de Propiedad. Las estaciones y empresas de servicio público también siguen este proceso.
+
+Estaciones de ferrocarril y empresas de servicio público
+Si una tira de de los dados lleva a una empresa de servicio público que ya tiene propietario, el jugador debe pager 4 0 10 veces el número arrojado por los dados, según que el jugador propietario poses una o dos cartas. Sirve el número arrojado por los dados para mover la ficha, es decir, no es necesario tirar de nuevo para calcular la cantidad.
+
+Si una carta de Suerte envía al jugador s la empresa de servicio público, el jugador sí debe tirar los dados para calcular el alquiler que debe.
+
+Cuando un jugador posee las dos camas de empresa de servicio público y una de ellas está hipotecada, igualmente cobra 10 veces el alquiler en la carta no hipotecada.
+
+Si una carta de Suerte envía a la estación de ferrocarril más cercana, el jugador debe moverse hacia la más cercana en la dirección del tablero (no hacia atrás).
+
+Suerte o Caja de Comunidad
+Cuando el jugador va s parar a las casillas de Suerte o Caja de Comunidad, toma una carta del montón correspondiente y sigue las instrucciones que recibe. Después, debe colocar de nuevo la carta boca abajo en la parte inferior de la pila.
+
+Hay dos casos en los que se queda con la carta; son los que permiten salir de la cárcel. Su lema es "Salga de la cárcel". Después de haber utilizado estas cartas, también serán colocadas debajo del montón. Esta carta también puede ser vendida por un jugador a otro por el precio que convengan de mutuo acuerdo.
+
+Si un jugador debe pager un impuesto o una multa, lo hará al banco. El impuesto gravará las construcciones vigentes y no tendrá en consideración que el jugador deba vender algunas de ellas para pagar la suma exigida.
+
+Si el jugador es enviado a cualquier otra casilla y pass por la salida, cobrará las 20.000 pelotis.
+
+La cárcel
+Cuando el jugador es enviado a la cárcel, la ficha va directo de la casilla en que está ubicada a la de la cárcel.
+
+Un jugador va a la cárcel:
+1. Si va a parar a la casilla que reza "Vaya a la cárcel". 
+2. Si le sale una carta que le indica "Vaya a la cárcel". 
+3. Si tira un doble tres veces seguidas (en este caso, guarda los beneficios que haya obtenido en las jugadas anteriores). 
+4. En ningún caso recibirá las 20.000 pelotis por pasar por la casilla de salida.
+
+Si en el transcurso normal del juego el jugador va a parar a 1a casilla de la cárcel sin ser enviado a ella, se considera una simple visita y no es cargado con ninguna sanción. Continúa el juego en la siguiente tirada.
+
+Cuando un jugador ha sido enviado a la cárcel, debe esperar el próximo turno para liberarse, sea cual sea la manera en que lo haga.
+
+Un jugador sale de la cárcel:
+1. Si obtiene un doble durante uno de los tres turnos de juego siguientes (en este caso, desplazará la ficha el número de casillas indicado por los dados). 
+2. Si posee o compra una carta "Salga de la cárcel". 
+3. Si paga una multa de 5.000 pelotis. 
+
+Después del tercer turno, si el jugador encarcelado no ha obtenido un doble, está obligado a pagar las 5.000 pelotis y a salir de la cárcel. En ese caso, avanzará su ficha el número de casillas que haya obtenido mediante los dados.
+
+Durante su estancia en la cárcel, el jugador puede percibir los alquileres, construir sobre sus terrenos, comprar, vender o hipotecar sus propiedades.
+
+Aterrizar en una casilla con propietario
+El propietario cobrará el alquiler de acuerdo con las tasas establecidas en su Título de Propiedad. El alquiler es más alto si la propiedad está construida.
+
+Si la propiedad está hipotecada, el propietario no puede cobrar alquiler. En este caso, y para que quede claro, el título de propiedad estar"á vuelto boca abajo.
+
+Si el propietario posee todas las propiedades de aquel color sin edificar, puede doblar el alquiler (aunque tenga hipotecadas propiedades de otros colores). Si hay alguna propiedad hipotecada de este color, no se puede cobrar el doble, ya que se considera incompleto el grupo.
+
+Si el propietario no reclama el alquiler antes de que el próximo jugador realice su tirada, pierde la suma.
+
+Construir
+Cuando un jugador posee todas las propiedades de un mismo color, puede aumentar las rentas que le proporcionan los alquileres construyendo casas y hoteles en cede uno de los terrenos. El precio de las construcciones está marcado en cede uno de los títulos de propiedad.
+
+No es necesario esperar el turno para comprar una casa u hotel. En cualquier momento en que los dados estén cambiando de manos, y el jugador disponga del dinero y de los títulos de propiedad de todo el grupo, puede adquirir construcciones.
+
+Las propiedades deben incrementarse a la par; si un terreno posee una casa, la próxima casa debe ir a otro terreno del mismo grupo.
+
+Cuando un jugador tiene cuatro casas, puede comprar un hotel que las sustituya. El precio también está establecido en el Título de Propiedad. De todas maneras, es preciso que haya cuatro casas en cede uno de los terrenos del grupo antes de levantar un solo hotel (existe el límite de un hotel por terreno).
+
+Cuando no hay casas a la venta
+Si el banco no dispone de casas para vender, el jugador debe esperar que alguien se las venda al banco. Incluso si el jugador pudiera comprar directamente un hotel, está obligado a esperar a que el banco disponga de cuatro casas para conseguir el hotel.
+
+Si la demanda de los jugadores es superior a la oferta del banco en casas a hoteles, el banquero vende las construcciones en subasta y las obtiene el que puja más alto. La subasta comienza a partir del precio más bajo indicado en los diversos títulos de propiedad de los jugadores implicados.
+
+Bajo ninguna circunstancia un jugador puede mover una casa o un hotel de una de sus propiedades a otra, o vender una casa o un hotel a otro jugador. El jugador si puede revender casas y hoteles al banco, que pagará la mitad del precio de compra.
+
+De la misma manera que los hoteles y las casas se incrementaron a la par, deben disminuir a la par. Por ejemplo, si un jugador desea vender un hotel, no puede dejar el terreno vacío mientras los otros terrenos tienen hoteles; debe cambiar también los hoteles por casas para distribuirlos equitativamente entre las tres propiedades.
+
+Si todos los hoteles son vendidos y no convertidos en casa, el banco los compra por la mitad del precio de cinco casas de aquel Título de Propiedad.
+
+Hipotecas
+Las propiedades sin casas a hoteles pueden ser hipotecadas. El banco paga la hipoteca establecida en el Título de Propiedad y el jugador debe emplazarlo boca abajo (el jugador todavía es propietario).
+
+Si el jugador desea hipotecar un grupo construido, debe revender antes todas las casas y hoteles al banco.
+
+El propietario de unos terrenos hipotecados no puede cobrar alquiler ni construir sobre ellos. El jugador tampoco puede construir sobre otras propiedades del mismo color, pero sí puede cobrar alquiler de ellas y cargar el doble por tener todo el grupo de color bajo su posesión.
+
+Para retirar la hipoteca, el jugador debe pager al banco la cantidad correspondiente a la hipoteca más un 10 % de interés. Si decide construir casas y hoteles, aunque los hubiera revendido al banco a mitad de precio, los comprará al precio en curso.
+
+Un jugador puede entregar una propiedad hipotecada al banco como pago de una deuda. El banco descontará del valor de la propiedad el 10 % de interés y llevará la carta inmediatamente a subasta.
+
+Ventas entre jugadores
+Un jugador puede vender a otro, por un precio convenido de mutuo acuerdo, propiedades sin construir, estaciones de ferrocarril o empresas de servicio público. No se puede vender ninguna propiedad con casas u hoteles ni cualquier otra carta del grupo.
+
+Un jugador puede vender también una propiedad hipotecada. El nuevo propietario deberá pager inmediatamente la hipoteca y los intereses al banco. Si decidiera mantener la deuda con el banco, al recibir la propiedad debe pager un 10 % de interés y, al pager la hipoteca, un 10 % adicional.
+
+Si un jugador sólo puede pager un alquiler con una propiedad, el propietario puede decidir qué valor tiene esa propiedad independientemente de su precio de salida.
+
+Bancarrota
+Si un jugador debe más alquiler del que puede pager con su capital líquido, puede pager con un Título de Propiedad sin construcciones y sin hipotecas al precio que marca la carta. También puede pedir al banco que subaste sus propiedades a intentar pager su alquiler con los beneficios resultantes.
+
+Después de vender sus propiedades, si todavía no puede pager la renta, debe declararse en bancarrota y entregar todo lo que posee a su acreedor. Si poseía casas u hoteles, éstos serán comprados a mitad de precio por la banca, que entregará el dinero a los acreedores.
+
+Si el caso fuera que no podía pagar impuestos o sanciones, el banco sería el receptor de las propiedades y las subastaría enseguida.
+
+En ambos casos, el jugador se ve obligado a dejar el juego.
+
+Solidaridad entre jugadores
+En el Monopoly no existe, y queda prohibido:
+1. "Olvidarse" de cobrar alquiler a jugadores desfavorecidos. 
+2. Ayudar a otros jugadores a salvaguardar sus bienes. 
+3. Prestar dinero o propiedades.
